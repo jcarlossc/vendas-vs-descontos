@@ -165,6 +165,17 @@ Política sugerida:
 | 5% a 9% |	Requer justificativa |
 | Acima de 9% |	Apenas casos estratégicos |
 
+## ⭐ Considerações Finais
+
+Este projeto demonstra como técnicas de análise de dados podem apoiar decisões estratégicas relacionadas a:
+
+* precificação
+* margem
+* política comercial
+* rentabilidade
+
+Mais do que aumentar vendas, o foco da análise é entender como preservar geração de valor econômico através de decisões comerciais mais eficientes.
+
 ## 📌 Licença
 Este projeto está licenciado sob MIT License.
 
