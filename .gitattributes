@@ -1,0 +1,7 @@
+# Marcar arquivos de documentação como tal
+docs/** linguist-documentation
+*.md linguist-documentation
+
+# Força o reconhecimento dos arquivos Python como código principal
+*.ipynb linguist-detectable=false
+*.py linguist-detectable=true
